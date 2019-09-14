@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-landing-title: 'Hi, my name is Tash'
+landing-title: 'Tashfiq Chowdhury'
 description: null
 image: null
 author: null
