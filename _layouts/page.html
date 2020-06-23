@@ -1,12 +1,6 @@
-<!DOCTYPE html>
-<html>
+---
+layout: layout
+---
 
-{% include head.html %}
-
-<body>
-
-    {% include header.html %} {{ content }} {% include footer.html %}
-
-</body>
-
-</html>
+{% assign __ = site.data.languages[site.language] %}
+{% include page.html %}
