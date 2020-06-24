@@ -30,6 +30,9 @@ h2 {
 a {
   text-decoration:none !important;
 }
+a:focus {
+  outline-color:white;
+}
 .btn {
   z-index: 1;
   overflow: hidden;
