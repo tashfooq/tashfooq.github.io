@@ -49,7 +49,7 @@ a {
   color: var(--blue);
 }
 .btn:focus {
-  outline-color:var(--green);
+  outline-color:var(--white);
 }
 .btn:before {
   content: "";
