@@ -7,6 +7,7 @@ categories:
 ---
 ### Why this is important
 I'm currently working on a project with a React front-end and PHP back-end. Which is why I couldn't just something like
+<!-- more -->
 ```bash
 npx create-react-app my-app
 ```
