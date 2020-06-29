@@ -30,3 +30,8 @@ To just check for update run
 ```shell
 ncu
 ```
+One could just use
+```shell
+npm update
+```
+But that would update the dependencies without showing which ones need updating first.
