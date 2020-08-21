@@ -12,7 +12,7 @@ It's an app I'm currently working on where customer can order farm fresh product
 <!-- more -->
 
 ### Resize the line break 
-I typically use the ```html <br> ``` tag for line breaks and adjust the height with
+I typically use the ```<br>``` tag for line breaks and adjust the height with
 ```css
  {
   line-height: 150%;
